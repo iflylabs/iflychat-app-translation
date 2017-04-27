@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "需要采取的行动",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "请从浏览器设置授予桌面通知权限",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "重置列表大小",
-	"ifc-launcher-tr-limit-exceeded-mod": "聊天室已满。请升级"
+	"ifc-launcher-tr-limit-exceeded-mod": "聊天室已满。请升级",
+	"ifc-launcher-tr-invalidToken": "无效的聊天令牌，刷新页面"
 }

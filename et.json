@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Nõutav tegevus",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Palun anda loa töölaua teate brauseri seadeid",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Reset Loetelu Suurus",
-	"ifc-launcher-tr-limit-exceeded-mod": "Chat Room on täis. Palun uuendage."
+	"ifc-launcher-tr-limit-exceeded-mod": "Chat Room on täis. Palun uuendage.",
+	"ifc-launcher-tr-invalidToken": "Kehtetu vestluse sümboolne, värskenda lehte"
 }

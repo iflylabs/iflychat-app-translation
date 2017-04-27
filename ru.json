@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Необходимое действие",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Предоставьте разрешение на уведомления на рабочем столе из настроек браузера",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Сбросить размер списка",
-	"ifc-launcher-tr-limit-exceeded-mod": "Чат заполнен. Обновите."
+	"ifc-launcher-tr-limit-exceeded-mod": "Чат заполнен. Обновите.",
+	"ifc-launcher-tr-invalidToken": "Недопустимый токен чата, страница обновления"
 }

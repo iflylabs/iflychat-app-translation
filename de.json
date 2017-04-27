@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Handlung erforderlich",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Bitte erteilen Sie die Berechtigung für die Desktop-Benachrichtigung über Browser-Einstellungen",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Liste zurücksetzen",
-	"ifc-launcher-tr-limit-exceeded-mod": "Chat-Raum ist voll. Bitte aktualisieren."
+	"ifc-launcher-tr-limit-exceeded-mod": "Chat-Raum ist voll. Bitte aktualisieren.",
+	"ifc-launcher-tr-invalidToken": "Ungültige Chat-Token, Seite aktualisieren"
 }

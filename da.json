@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Handling påkrævet",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Giv venligst tilladelse til desktop-besked fra browserindstillinger",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Nulstil listestørrelse",
-	"ifc-launcher-tr-limit-exceeded-mod": "Chatrummet er fuldt. Opgrader venligst."
+	"ifc-launcher-tr-limit-exceeded-mod": "Chatrummet er fuldt. Opgrader venligst.",
+	"ifc-launcher-tr-invalidToken": "Ugyldig chat-token, opdater siden"
 }

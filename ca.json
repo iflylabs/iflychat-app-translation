@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Acció requerida",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Si us plau, concedir el permís de notificació a l'escriptori de la configuració del navegador",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Restablir Llista de mides",
-	"ifc-launcher-tr-limit-exceeded-mod": "Sala de xat està ple. Si us plau, actualitzi."
+	"ifc-launcher-tr-limit-exceeded-mod": "Sala de xat està ple. Si us plau, actualitzi.",
+	"ifc-launcher-tr-invalidToken": "Xat en invàlida manera, actualització de la pàgina"
 }

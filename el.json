@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Απαιτείται ενέργεια",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Καταχωρίστε την άδεια για την ειδοποίηση επιφάνειας εργασίας από τις ρυθμίσεις του προγράμματος περιήγησης",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Επαναφορά μεγέθους λίστας",
-	"ifc-launcher-tr-limit-exceeded-mod": "Η αίθουσα συζήτησης είναι πλήρης. Αναβαθμίστε."
+	"ifc-launcher-tr-limit-exceeded-mod": "Η αίθουσα συζήτησης είναι πλήρης. Αναβαθμίστε.",
+	"ifc-launcher-tr-invalidToken": "Μη έγκυρο διακριτικό συνομιλίας, σελίδα ανανέωσης"
 }

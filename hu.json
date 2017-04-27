@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Cselekvést kíván",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Engedélyezze az asztali értesítés engedélyezését a böngészőbeállításokból",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Lista méretének visszaállítása",
-	"ifc-launcher-tr-limit-exceeded-mod": "A csevegőszoba tele van. Kérjük, frissítse."
+	"ifc-launcher-tr-limit-exceeded-mod": "A csevegőszoba tele van. Kérjük, frissítse.",
+	"ifc-launcher-tr-invalidToken": "Érvénytelen csevegési token, oldal frissítése"
 }

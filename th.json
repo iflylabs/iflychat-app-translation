@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "ต้องการการดำเนินการ",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "โปรดให้สิทธิ์การแจ้งเตือนจากเดสก์ท็อปจากการตั้งค่าเบราเซอร์",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "รีเซ็ตขนาดรายการ",
-	"ifc-launcher-tr-limit-exceeded-mod": "ห้องแชทเต็มแล้ว โปรดอัปเกรด"
+	"ifc-launcher-tr-limit-exceeded-mod": "ห้องแชทเต็มแล้ว โปรดอัปเกรด",
+	"ifc-launcher-tr-invalidToken": "โทเค็นการแชทไม่ถูกต้องหน้ารีเฟรช"
 }

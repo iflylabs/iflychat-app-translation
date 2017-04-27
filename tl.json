@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Kailangan ng pagkilos",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Mangyaring magbigay ng pahintulot para sa mga desktop abiso mula sa mga setting ng browser",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "I-reset ang Listahan ng Sukat",
-	"ifc-launcher-tr-limit-exceeded-mod": "Chat Room ay puno na. Mangyaring mag-upgrade."
+	"ifc-launcher-tr-limit-exceeded-mod": "Chat Room ay puno na. Mangyaring mag-upgrade.",
+	"ifc-launcher-tr-invalidToken": "Di-wastong Chat token, i-refresh ang pahinang"
 }

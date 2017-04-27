@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Action requise",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Veuillez accorder l'autorisation d'une notification de bureau à partir des paramètres du navigateur",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Revoir la taille de la liste",
-	"ifc-launcher-tr-limit-exceeded-mod": "La salle de conversation est pleine. Mettre à niveau."
+	"ifc-launcher-tr-limit-exceeded-mod": "La salle de conversation est pleine. Mettre à niveau.",
+	"ifc-launcher-tr-invalidToken": "Chiffre de conversation invalide, page de rafraîchissement"
 }

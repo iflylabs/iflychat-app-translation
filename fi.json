@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Vaatii toimenpiteitä",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Anna lupa työpöytäilmoitukselle selaimen asetuksista",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Nollaa luettelokoko",
-	"ifc-launcher-tr-limit-exceeded-mod": "Chat-huone on täynnä. Päivitä."
+	"ifc-launcher-tr-limit-exceeded-mod": "Chat-huone on täynnä. Päivitä.",
+	"ifc-launcher-tr-invalidToken": "Virheellinen Chat-merkki, päivitä sivu"
 }

@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "需要採取的行動",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "請從瀏覽器設置授予桌面通知權限",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "重置列表大小",
-	"ifc-launcher-tr-limit-exceeded-mod": "聊天室已滿。請升級"
+	"ifc-launcher-tr-limit-exceeded-mod": "聊天室已滿。請升級",
+	"ifc-launcher-tr-invalidToken": "無效的聊天令牌，刷新頁面"
 }

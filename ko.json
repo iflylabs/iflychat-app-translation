@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "필요한 조치",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "브라우저 설정에서 바탕 화면 알림에 대한 권한을 부여하십시오.",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "목록 크기 재설정",
-	"ifc-launcher-tr-limit-exceeded-mod": "대화방이 가득 찼습니다. 업그레이드하십시오."
+	"ifc-launcher-tr-limit-exceeded-mod": "대화방이 가득 찼습니다. 업그레이드하십시오.",
+	"ifc-launcher-tr-invalidToken": "채팅 토큰이 잘못되었습니다. 페이지를 새로 고칩니다."
 }

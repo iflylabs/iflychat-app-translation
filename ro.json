@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Actiune ceruta",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Acordați permisiunea pentru notificarea de pe desktop din setările browserului",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Resetați dimensiunea listei",
-	"ifc-launcher-tr-limit-exceeded-mod": "Camera de chat este plină. Vă rugăm să faceți upgrade."
+	"ifc-launcher-tr-limit-exceeded-mod": "Camera de chat este plină. Vă rugăm să faceți upgrade.",
+	"ifc-launcher-tr-invalidToken": "Chei de chat nevalid, pagina de actualizare"
 }

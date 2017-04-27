@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Eylem Gerekli",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Tarayıcı ayarlarından masaüstü bildirimi için lütfen izin verin",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Liste Boyutunu Sıfırla",
-	"ifc-launcher-tr-limit-exceeded-mod": "Sohbet Odası dolu. Lütfen yükseltin."
+	"ifc-launcher-tr-limit-exceeded-mod": "Sohbet Odası dolu. Lütfen yükseltin.",
+	"ifc-launcher-tr-invalidToken": "Geçersiz Sohbet belirteci, sayfayı yenile"
 }

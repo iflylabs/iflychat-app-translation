@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Zahtevano dejanje",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Prosimo, da izda dovoljenje za obvestila na namizju od nastavitev brskalnika",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Ponastaviti List Velikost",
-	"ifc-launcher-tr-limit-exceeded-mod": "Chat Soba je polna. nadgradite."
+	"ifc-launcher-tr-limit-exceeded-mod": "Chat Soba je polna. nadgradite.",
+	"ifc-launcher-tr-invalidToken": "Neveljaven žeton komentarjev, osvežite stran"
 }

@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Cần hành động",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Vui lòng cấp phép cho thông báo trên màn hình từ cài đặt trình duyệt",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Đặt lại Kích thước Danh sách",
-	"ifc-launcher-tr-limit-exceeded-mod": "Phòng trò chuyện đã đầy. Hãy nâng cấp."
+	"ifc-launcher-tr-limit-exceeded-mod": "Phòng trò chuyện đã đầy. Hãy nâng cấp.",
+	"ifc-launcher-tr-invalidToken": "Mã thông báo trò chuyện không hợp lệ, trang làm mới"
 }

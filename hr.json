@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Potrebna je radnja",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Dozvoli za obavijest o stolnim računalima iz postavki preglednika",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Resetiraj veličinu popisa",
-	"ifc-launcher-tr-limit-exceeded-mod": "Čavrljaonica je puna. Nadogradite."
+	"ifc-launcher-tr-limit-exceeded-mod": "Čavrljaonica je puna. Nadogradite.",
+	"ifc-launcher-tr-invalidToken": "Nevažeći tok za chat, osvježite stranicu"
  }

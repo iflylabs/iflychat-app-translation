@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Konieczne są działania",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Uprzejmie prosimy o powiadomienie na pulpicie z poziomu ustawień przeglądarki",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Zresetuj rozmiar listy",
-	"ifc-launcher-tr-limit-exceeded-mod": "Pokój czatu jest zapełniony. Proszę uaktualnić."
+	"ifc-launcher-tr-limit-exceeded-mod": "Pokój czatu jest zapełniony. Proszę uaktualnić.",
+	"ifc-launcher-tr-invalidToken": "Nieprawidłowy żeton Czatu, odśwież stronę"
 }

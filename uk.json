@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Потрібна дія",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Будь ласка, дати дозвіл на робочий стіл повідомлення від налаштувань браузера",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Скидання списку Розмір",
-	"ifc-launcher-tr-limit-exceeded-mod": "Chat Room повний. Будь ласка, поновіть."
+	"ifc-launcher-tr-limit-exceeded-mod": "Chat Room повний. Будь ласка, поновіть.",
+	"ifc-launcher-tr-invalidToken": "Неприпустимий маркер чат, оновлення сторінки"
 }

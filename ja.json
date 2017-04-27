@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "必要な処置",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "ブラウザの設定からデスクトップ通知の許可を与えてください",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "リストサイズをリセットする",
-	"ifc-launcher-tr-limit-exceeded-mod": "チャットルームがいっぱいです。アップグレードしてください。"
+	"ifc-launcher-tr-limit-exceeded-mod": "チャットルームがいっぱいです。アップグレードしてください。",
+	"ifc-launcher-tr-invalidToken": "無効なチャットトークン、ページの更新"
 }

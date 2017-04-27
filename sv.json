@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Åtgärd krävs",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Vänligen bevilja tillstånd för skrivbordsunderrättelse från webbläsarinställningar",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Återställ lista storlek",
-	"ifc-launcher-tr-limit-exceeded-mod": "Chattrummet är fullt. Var god uppgradera."
+	"ifc-launcher-tr-limit-exceeded-mod": "Chattrummet är fullt. Var god uppgradera.",
+	"ifc-launcher-tr-invalidToken": "Ogiltig Chat-token, uppdatera sidan"
 }

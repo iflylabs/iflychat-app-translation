@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Actie vereist",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Gelieve toestemming te geven voor desktop melding van browser instellingen",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Reset lijst grootte",
-	"ifc-launcher-tr-limit-exceeded-mod": "Chatruimte is vol. Upgrade alsjeblieft."
+	"ifc-launcher-tr-limit-exceeded-mod": "Chatruimte is vol. Upgrade alsjeblieft.",
+	"ifc-launcher-tr-invalidToken": "Ongeldige chat-token, vernieuw pagina"
 }

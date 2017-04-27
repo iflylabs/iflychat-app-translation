@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Ação requerida",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Conceda permissão para notificação na área de trabalho das configurações do navegador",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Restaurar tamanho da lista",
-	"ifc-launcher-tr-limit-exceeded-mod": "A sala de bate-papo está cheia. Atualize por favor."
+	"ifc-launcher-tr-limit-exceeded-mod": "A sala de bate-papo está cheia. Atualize por favor.",
+	"ifc-launcher-tr-invalidToken": "Token de bate-papo inválido, página de atualização"
 }

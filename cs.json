@@ -101,5 +101,6 @@
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-header": "Je vyžadována akce",
 	"ifc-chat-list-user-profile-settings-tr-enable-notification-from-browser-body": "Udělujte oprávnění pro upozornění na ploše z nastavení prohlížeče",
 	"ifc-chat-list-user-profile-settings-tr-reset-list-size": "Resetovat velikost seznamu",
-	"ifc-launcher-tr-limit-exceeded-mod": "Chatová místnost je plná. Aktualizujte prosím."
+	"ifc-launcher-tr-limit-exceeded-mod": "Chatová místnost je plná. Aktualizujte prosím.",
+	"ifc-launcher-tr-invalidToken": "Neplatný token rozhovoru, obnovit stránku"
 }
