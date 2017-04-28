@@ -85,7 +85,7 @@
 	"ifc-time-in-minutes": "vor {number} Minuten",
 	"ifc-time-in-second": "gerade jetzt",
 	"ifc-login-message": "auf {siteName} einloggen",
-  "ifc-login-separator": "oder",
+	"ifc-login-separator": "oder",
 	"ifc-sign-in-message": "als Gast anmelden",
 	"ifc-open-chat-in-new-tab": "In neuem Tab öffnen",
 	"ifc-user": "Sie",
